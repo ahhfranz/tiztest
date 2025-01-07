@@ -18,7 +18,7 @@
     // Que rompe bolas que sos Chrome...
     document.addEventListener('click', () => {
       const audio = document.getElementById('background-music');
-      audio.volume = 0.5; // Volumen
+      audio.volume = 0.3; // Volumen
       audio.play().catch(error => console.error('Error al reproducir el audio:', error));
     }, { once: true }); // Creo que va, 1 solo click
   </script>
