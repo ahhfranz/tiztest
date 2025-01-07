@@ -18,8 +18,8 @@
         "triggerNextAction": {
             "type": "userInput",
             "options": {
-                "resolveKeyTexts": ["si", "sip", "Si", "dale", "quiero", "obvio"],
-                "rejectKeyTexts": ["no", "No", "nunca", "na"],
+                "resolveKeyTexts": ["si", "Si", "SI", "sip", "Sip", "SIP", "chi", "Chi", "CHI", "dale", "Dale", "DALE", "quiero", "Quiero", "obvio", "Obvio", "de una", "De una"],
+                "rejectKeyTexts": ["no", "No", "nunca", "Nunca", "na", "Na", "meh", "Meh"],
                 "rejectHitTexts": [
                     "bue si dale -.- mentirosa(?"
                 ]
