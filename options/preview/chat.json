@@ -1,88 +1,96 @@
 [
-    { "msgs": ["Tiiiiiiiiiiiiz 🥰❤️"], "msgInputSpeed": 80 },
+    { "msgs": ["Tiiiiiiiiiiiiz 🥰❤️"], "msgInputSpeed": 40 },
     {
         "msgs": ["¡Holi mi amor!"],
-        "msgInputSpeed": 50
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["Primero que nada, decirte que tardé más de 40 días haciendo este proyecto,"],
-        "msgInputSpeed": 50
+        "msgs": ["Tardé unos 40 días haciendo este proyecto para vos,"],
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["espero que lo disfrutes tanto como yo lo hice todo este tiempo. ❤️"],
-        "msgInputSpeed": 50
+        "msgs": ["espero que lo disfrutes como yo lo hice. ❤️"],
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["Creo que nunca voy a dejar de decir que te amo,"],
-        "msgInputSpeed": 80
-    },
-    {
-        "msgs": ["vos me amas? ❤️"],
-        "msgInputSpeed": 80,
+        "msgs": ["¿Te gustaría comenzar? ❤️"],
+        "msgInputSpeed": 50,
         "triggerNextAction": {
             "type": "userInput",
             "options": {
-                "resolveKeyTexts": ["si", "te amo", "quiero"],
-                "rejectKeyTexts": ["no", "nunca"],
+                "resolveKeyTexts": ["si", "sip", "Si", "dale", "quiero", "obvio"],
+                "rejectKeyTexts": ["no", "No", "nunca", "na"],
                 "rejectHitTexts": [
-                    "¿En serio no me amas? :( mentirosa(?"
+                    "bue si dale -.- mentirosa(?"
                 ]
             }
         }
     },
     {
-        "msgs": ["Yo te amo mucho más uwu ❤️"],
-        "msgInputSpeed": 50
+        "msgs": ["oki uwu ❤️"],
+        "msgInputSpeed": 30
     },
-    { "msgs": ["y..."], "msgInputSpeed": 50 },
+    { "msgs": ["Antes que nada..."], "msgInputSpeed": 50 },
     {
-        "msgs": ["Sé que pasaron muchas cosas en los últimos meses..."],
-        "msgInputSpeed": 50
-    },
-    {
-        "msgs": ["y realmente quería hacer algo que te recuerde"],
-        "msgInputSpeed": 50
+        "msgs": ["Sé que pasaron muchas cosas.."],
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["lo mucho que aprecio todos los días saber que voy a compartir mi vida contigo."],
-        "msgInputSpeed": 80
+        "msgs": ["sobre todo en los últimos meses.."],
+        "msgInputSpeed": 30
     },
-    { "msgs": ["Así que..."], "msgInputSpeed": 50 },
     {
-        "msgs": ["desarrollé esta web para que siempre encuentres un lugar seguro"],
-        "msgInputSpeed": 80
+        "msgs": ["y realmente quería hacer algo que te recuerde.."],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["lo mucho que aprecio todos los días.."],
+        "msgInputSpeed": 30
+    },
+        {
+        "msgs": ["saber que voy a compartir mi vida con vos. ❤️"],
+        "msgInputSpeed": 5
+    },
+    { "msgs": ["El objetivo de esta web..."], "msgInputSpeed": 30 },
+    {
+        "msgs": ["es que siempre puedas encontrar un lugar seguro"],
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["donde puedas recordar lo mucho que te amo,"],
-        "msgInputSpeed": 80
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["y que siempre voy a estar para vos. ❤️"],
-        "msgInputSpeed": 80
+        "msgs": ["y que siempre voy a estar para vos. 💏❤️"],
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["La verdad es que... son muchas las cosas que quiero decirte,"],
-        "msgInputSpeed": 80
+        "msgs": ["La verdad es que son muchas las cosas que quería decirte,"],
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["y es por eso que... preferí escribirte una carta. ❤️"],
-        "msgInputSpeed": 80
+        "msgs": ["y es por eso que.."],
+        "msgInputSpeed": 30
+    },
+        {
+        "msgs": ["preferí escribirte una carta. ❤️"],
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["<letter src='options/preview/letter.json'/>"],
         "triggerNextAction": { "type": "componentClose" }
     },
     {
-        "msgs": ["Espero que te haya gustado mi carta. 💌❤️"],
-        "msgInputSpeed": 80
+        "msgs": ["¡Espero que te haya gustado mi amor! 💌❤️"],
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["Realmente... nunca voy a olvidar todos los momentos que pasamos juntos."],
-        "msgInputSpeed": 80
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["¡Mirá algunos de esos momentos! 🥰"],
-        "msgInputSpeed": 80
+        "msgs": ["¡Te dejo con algunos de ellos! 🥰"],
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["<img src='options/preview/img1.png'/>"],
@@ -100,32 +108,36 @@
         "msgs": ["<img src='options/preview/img4.png'/>"],
         "msgInputSpeed": 50
     },
+        {
+        "msgs": ["<img src='options/preview/img5.png'/>"],
+        "msgInputSpeed": 50
+    },
     {
         "msgs": ["Gracias por seguir conmigo, por nunca rendirte,"],
-        "msgInputSpeed": 80
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["muy pronto vamos a tener muchas más fotos. ❤️"],
-        "msgInputSpeed": 80
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["No hay palabras que puedan describir lo mucho que te amo,"],
-        "msgInputSpeed": 80
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["sos lo mejor que me pasó, nunca lo olvides. 🥰❤️"],
-        "msgInputSpeed": 80
+        "msgs": ["y lo que agradezco que seas parte de mi vida,"],
+        "msgInputSpeed": 30
     },
     {
-        "msgs": ["Gracias por ser parte de mi vida,"],
-        "msgInputSpeed": 80
-    },
-    {
-        "msgs": ["¡Ayer, hoy, mañana y toda la vida! ❤️"],
-        "msgInputSpeed": 80
+        "msgs": ["¡Ayer, hoy, mañana y toda la vida! ❤️❤️❤️"],
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["Sos lo mejor que me pasó, nunca lo olvides. 🥰❤️"],
+        "msgInputSpeed": 30
+    },
+    {
+        "msgs": ["Con amor, tu amado Franco. 🎀❤️"],
         "msgInputSpeed": 80
     }
 ]
