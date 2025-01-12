@@ -51,9 +51,9 @@
         "msgs": ["Saber que voy a compartir mi vida con vos. ❤️"],
         "msgInputSpeed": 10
     },
-    { "msgs": ["El objetivo de esta web..."], "msgInputSpeed": 30 },
+    { "msgs": ["Este regalo..."], "msgInputSpeed": 30 },
     {
-        "msgs": ["Es que siempre puedas encontrar un lugar seguro"],
+        "msgs": ["es que siempre puedas encontrar un lugar seguro,"],
         "msgInputSpeed": 30
     },
     {
@@ -86,7 +86,7 @@
     },
     {
         "msgs": ["Realmente... nunca voy a olvidar todos los momentos que pasamos juntos."],
-        "msgInputSpeed": 10
+        "msgInputSpeed": 30
     },
     {
         "msgs": ["¡Te dejo con algunos de ellos! 📷🥰"],
