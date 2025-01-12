@@ -139,5 +139,9 @@
     {
         "msgs": ["Con amor, tu amado Franco. 🎀❤️"],
         "msgInputSpeed": 80
-    }
+    },
+        {
+        "msgs": ["<img src='options/preview/img6.png'/>"],
+        "msgInputSpeed": 50
+    },
 ]
